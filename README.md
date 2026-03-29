@@ -1,6 +1,6 @@
 # 📊 Vrinda Store Sales Dashboard (Excel)
 
-## 📌 Overview
+##  Overview
 
 This project focuses on analyzing the Vrinda Store sales dataset using Microsoft Excel and developing an interactive dashboard to derive meaningful business insights.
 
@@ -26,7 +26,7 @@ It highlights how raw data can be transformed into actionable insights for bette
 
 ---
 
-## 🔄 Process
+##  Process
 
 * Cleaned and prepared raw data
 * Created features like Age Group and Month
@@ -50,7 +50,7 @@ It highlights how raw data can be transformed into actionable insights for bette
 
 ---
 
-## 💡 Skills Demonstrated
+##  Skills Demonstrated
 
 * Data Cleaning & Preparation
 * Exploratory Data Analysis (EDA)
@@ -74,6 +74,6 @@ Anmol Vaswani
 
 ---
 
-## 🙌 Acknowledgment
+##  Acknowledgment
 
 This project is based on a guided Excel analytics workflow and was built to strengthen practical data analysis and dashboarding skills.
