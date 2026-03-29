@@ -1,4 +1,4 @@
-#📊 Vrinda Store Sales Dashboard (Excel)
+# 📊 Vrinda Store Sales Dashboard (Excel)
 
 ## 📌 Overview
 
